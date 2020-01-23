@@ -1,0 +1,14 @@
+C:\Users\Afryk\OneDrive\Bureau\Perso\ChliApps\SDLerher\SDLerher\SDLerher\bin\Debug\netcoreapp3.1\SDLerher.exe
+C:\Users\Afryk\OneDrive\Bureau\Perso\ChliApps\SDLerher\SDLerher\SDLerher\bin\Debug\netcoreapp3.1\SDLerher.deps.json
+C:\Users\Afryk\OneDrive\Bureau\Perso\ChliApps\SDLerher\SDLerher\SDLerher\bin\Debug\netcoreapp3.1\SDLerher.runtimeconfig.json
+C:\Users\Afryk\OneDrive\Bureau\Perso\ChliApps\SDLerher\SDLerher\SDLerher\bin\Debug\netcoreapp3.1\SDLerher.runtimeconfig.dev.json
+C:\Users\Afryk\OneDrive\Bureau\Perso\ChliApps\SDLerher\SDLerher\SDLerher\bin\Debug\netcoreapp3.1\SDLerher.dll
+C:\Users\Afryk\OneDrive\Bureau\Perso\ChliApps\SDLerher\SDLerher\SDLerher\bin\Debug\netcoreapp3.1\SDLerher.pdb
+C:\Users\Afryk\OneDrive\Bureau\Perso\ChliApps\SDLerher\SDLerher\SDLerher\obj\Debug\netcoreapp3.1\SDLerher.csprojAssemblyReference.cache
+C:\Users\Afryk\OneDrive\Bureau\Perso\ChliApps\SDLerher\SDLerher\SDLerher\obj\Debug\netcoreapp3.1\SDLerher.AssemblyInfoInputs.cache
+C:\Users\Afryk\OneDrive\Bureau\Perso\ChliApps\SDLerher\SDLerher\SDLerher\obj\Debug\netcoreapp3.1\SDLerher.AssemblyInfo.cs
+C:\Users\Afryk\OneDrive\Bureau\Perso\ChliApps\SDLerher\SDLerher\SDLerher\obj\Debug\netcoreapp3.1\SDLerher.dll
+C:\Users\Afryk\OneDrive\Bureau\Perso\ChliApps\SDLerher\SDLerher\SDLerher\obj\Debug\netcoreapp3.1\SDLerher.pdb
+C:\Users\Afryk\OneDrive\Bureau\Perso\ChliApps\SDLerher\SDLerher\SDLerher\bin\Debug\netcoreapp3.1\model.dll
+C:\Users\Afryk\OneDrive\Bureau\Perso\ChliApps\SDLerher\SDLerher\SDLerher\bin\Debug\netcoreapp3.1\model.pdb
+C:\Users\Afryk\OneDrive\Bureau\Perso\ChliApps\SDLerher\SDLerher\SDLerher\obj\Debug\netcoreapp3.1\SDLerher.csproj.CopyComplete
