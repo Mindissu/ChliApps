@@ -1,0 +1,17 @@
+{
+  "name": "filefilter",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Samuel Meyer",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^7.1.10"
+  },
+  "dependencies": {
+    "run-electron": "^1.0.0"
+  }
+}
