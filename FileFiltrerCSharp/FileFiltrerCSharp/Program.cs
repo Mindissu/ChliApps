@@ -21,13 +21,13 @@ namespace FileFiltrerCSharp
 
             foreach(Target target in targetList)
             {
-                string sourcePath = @"E:\Téléchargements\";
+                string sourcePath = @"C:\Users\Afryk\Downloads\";
 
                 if (!Directory.Exists(sourcePath + target.FolderName)){
                     Directory.CreateDirectory(sourcePath + target.FolderName);
                     Console.WriteLine("Création du folder '" + target.FolderName + "'.");
                 }
-                string targetPath = @"E:\Téléchargements\" + target.FolderName;
+                string targetPath = @"C:\Users\Afryk\Downloads\" + target.FolderName;
 
                 fileMover.MoveFile(target.Types, sourcePath, targetPath);
             }
