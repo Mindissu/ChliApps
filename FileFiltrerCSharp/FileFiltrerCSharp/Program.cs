@@ -18,16 +18,16 @@ namespace FileFiltrerCSharp
             Console.WriteLine("Ajout des folders.");
 
             FileMover fileMover = new FileMover();
-            
+
             foreach(Target target in targetList)
             {
-                string sourcePath = @"C:\Users\Afryk\Downloads\";
+                string sourcePath = @"E:\Téléchargements\";
 
                 if (!Directory.Exists(sourcePath + target.FolderName)){
                     Directory.CreateDirectory(sourcePath + target.FolderName);
                     Console.WriteLine("Création du folder '" + target.FolderName + "'.");
                 }
-                string targetPath = @"C:\Users\Afryk\Downloads\" + target.FolderName;
+                string targetPath = @"E:\Téléchargements\" + target.FolderName;
 
                 fileMover.MoveFile(target.Types, sourcePath, targetPath);
             }
