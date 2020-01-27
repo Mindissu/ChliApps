@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Afryk\\OneDrive\\Bureau\\Perso\\ChliApps\\SDLerher\\SDLerher\\SDLerher\\view.csproj",
+      "projectUniqueName": "C:\\Users\\Afryk\\OneDrive\\Bureau\\Perso\\ChliApps\\SDLerher\\SDLerher\\view.csproj",
       "projectName": "view",
-      "projectPath": "C:\\Users\\Afryk\\OneDrive\\Bureau\\Perso\\ChliApps\\SDLerher\\SDLerher\\SDLerher\\view.csproj",
+      "projectPath": "C:\\Users\\Afryk\\OneDrive\\Bureau\\Perso\\ChliApps\\SDLerher\\SDLerher\\view.csproj",
       "packagesPath": "C:\\Users\\Afryk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Afryk\\OneDrive\\Bureau\\Perso\\ChliApps\\SDLerher\\SDLerher\\SDLerher\\obj\\",
+      "outputPath": "C:\\Users\\Afryk\\OneDrive\\Bureau\\Perso\\ChliApps\\SDLerher\\SDLerher\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Afryk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,8 +52,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Afryk\\OneDrive\\Bureau\\Perso\\ChliApps\\SDLerher\\SDLerher\\model\\model.csproj": {
-              "projectPath": "C:\\Users\\Afryk\\OneDrive\\Bureau\\Perso\\ChliApps\\SDLerher\\SDLerher\\model\\model.csproj"
+            "C:\\Users\\Afryk\\OneDrive\\Bureau\\Perso\\ChliApps\\SDLerher\\model\\model.csproj": {
+              "projectPath": "C:\\Users\\Afryk\\OneDrive\\Bureau\\Perso\\ChliApps\\SDLerher\\model\\model.csproj"
             }
           }
         }
