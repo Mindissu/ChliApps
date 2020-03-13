@@ -12,14 +12,35 @@ namespace model
         private bool hilfsverb;
 
         private List<string> gägewart;
-        private List<string> zuekunft;
-        private List<string> vergangeheit;
         private List<string> möglechkeitsform;
+
+        public TunwortClass(
+            string tunwort, 
+            string übersetzung, 
+            string partizipPerfekt, 
+            bool hilfsverb, 
+            List<string> gägewart, 
+            List<string> möglechkeitsform
+            )
+        {
+            this.tunwort = tunwort;
+            this.übersetzung = übersetzung;
+            this.partizipPerfekt = partizipPerfekt;
+            this.hilfsverb = hilfsverb;
+
+            this.gägewart = gägewart;
+            this.möglechkeitsform = möglechkeitsform;
+        }
 
         public string Tunwort
         {
             get { return tunwort; }
             set { tunwort = value; }
+        }
+        public string Übersetzung
+        {
+            get { return übersetzung; }
+            set { übersetzung = value; }
         }
         public string PartizipPerfekt
         {
@@ -36,16 +57,6 @@ namespace model
         {
             get { return gägewart; }
             set { gägewart = value; }
-        }
-        public List<string> Zuekunft
-        {
-            get { return zuekunft; }
-            set { zuekunft = value; }
-        }
-        public List<string> Vergangeheit
-        {
-            get { return vergangeheit; }
-            set { vergangeheit = value; }
         }
         public List<string> Möglechkeitsform
         {
