@@ -1,0 +1,11 @@
+C:\Users\Afryk\OneDrive\Bureau\Perso\ChliApps\Writer\Writer\bin\Debug\netcoreapp3.1\Writer.exe
+C:\Users\Afryk\OneDrive\Bureau\Perso\ChliApps\Writer\Writer\bin\Debug\netcoreapp3.1\Writer.deps.json
+C:\Users\Afryk\OneDrive\Bureau\Perso\ChliApps\Writer\Writer\bin\Debug\netcoreapp3.1\Writer.runtimeconfig.json
+C:\Users\Afryk\OneDrive\Bureau\Perso\ChliApps\Writer\Writer\bin\Debug\netcoreapp3.1\Writer.runtimeconfig.dev.json
+C:\Users\Afryk\OneDrive\Bureau\Perso\ChliApps\Writer\Writer\bin\Debug\netcoreapp3.1\Writer.dll
+C:\Users\Afryk\OneDrive\Bureau\Perso\ChliApps\Writer\Writer\bin\Debug\netcoreapp3.1\Writer.pdb
+C:\Users\Afryk\OneDrive\Bureau\Perso\ChliApps\Writer\Writer\obj\Debug\netcoreapp3.1\Writer.csprojAssemblyReference.cache
+C:\Users\Afryk\OneDrive\Bureau\Perso\ChliApps\Writer\Writer\obj\Debug\netcoreapp3.1\Writer.AssemblyInfoInputs.cache
+C:\Users\Afryk\OneDrive\Bureau\Perso\ChliApps\Writer\Writer\obj\Debug\netcoreapp3.1\Writer.AssemblyInfo.cs
+C:\Users\Afryk\OneDrive\Bureau\Perso\ChliApps\Writer\Writer\obj\Debug\netcoreapp3.1\Writer.dll
+C:\Users\Afryk\OneDrive\Bureau\Perso\ChliApps\Writer\Writer\obj\Debug\netcoreapp3.1\Writer.pdb
