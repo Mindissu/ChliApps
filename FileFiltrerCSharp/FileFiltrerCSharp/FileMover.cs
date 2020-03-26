@@ -24,10 +24,14 @@ namespace FileFiltrerCSharp
                     string destFile = Path.Combine(targetPath, fileName);
                     Console.WriteLine("Déplacement de '" + fileName + "' dans '" + targetPath );
 
+<<<<<<< HEAD
                     if (!Directory.Exists(targetPath))
                     {
                         File.Move(sourcefile, destFile);
                     }
+=======
+                    File.Move(sourcefile, destFile);
+>>>>>>> FileFilter
                 }
             }
         }
